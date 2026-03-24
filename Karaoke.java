@@ -4,9 +4,9 @@ public class Karaoke {
         String name = System.console().readLine("What is your name, superstar? ");
 
         System.out.println("\nAlright " + name + ", let's take it to the bridge!");
-        Thread.sleep(1500); // Pause for 1.5 seconds
+        Thread.sleep(1500); 
         System.out.print("You are...");
-        Thread.sleep(1000); // Pause for 1 second
+        Thread.sleep(1000);
         System.out.println("my fire...");
         Thread.sleep(1000);
         System.out.print("The one...");
